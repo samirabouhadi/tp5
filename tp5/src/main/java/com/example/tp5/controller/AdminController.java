@@ -15,4 +15,5 @@ public class AdminController {
         model.addAttribute("message", "Bienvenue sur le panneau d'administration !");
         return "admin";
     }
+
 }
